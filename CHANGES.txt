@@ -26,3 +26,4 @@
 0.5.3       2018-08-25      Add support for storing file contents in a BinaryField; drop support for Python 3.4 and Django 1.8~1.10
 0.5.4       2020-02-02      Add support for Django 3.0.2
 0.5.5       2020-05-31      Allow extra headers in download/view file views
+0.6.0       2022-02-24      Add Django 4 support
